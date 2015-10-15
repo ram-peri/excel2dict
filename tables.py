@@ -1,4 +1,8 @@
 #!/usr/bin/python
+
+#Author: Ram Peri
+#Email: <peri> <dot> <ram> <at> <gmail> <dot> <com>
+
 import re, os, pdb, xlrd, json, datetime, logging
 
 s_logger = logging.getLogger('root')
